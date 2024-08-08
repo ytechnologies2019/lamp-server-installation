@@ -5,7 +5,7 @@
 - chmod +x install-phpAdmin.sh 
     
 1st #Execute the Script
-    ./install-lamp.sh 
+   - ./install-lamp.sh 
     
     #MariaDB Setup 
     
@@ -18,7 +18,7 @@
         Reload privilege tables now? [Y/n] : Y 
         
 2nd ##Install the phpMyAdmin
-        ./install-phpMyAdmin.sh 
+    - ./install-phpMyAdmin.sh 
 
 3rd ##Browse the following 3 links
     - <ip address> 
