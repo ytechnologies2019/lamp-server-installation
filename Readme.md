@@ -1,6 +1,6 @@
-##Installation Guide
+#Installation Guide
 
-#grant the permission
+##Grant the permission
     chmod +x install-lamp.sh
     chmod +x install-phpAdmin.sh 
     
