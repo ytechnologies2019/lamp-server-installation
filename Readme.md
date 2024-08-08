@@ -1,8 +1,8 @@
 #Installation Guide
 
-##Grant the permission
-    chmod +x install-lamp.sh
-    chmod +x install-phpAdmin.sh 
+#Grant the permission
+- chmod +x install-lamp.sh
+- chmod +x install-phpAdmin.sh 
     
 1st #Execute the Script
     ./install-lamp.sh 
